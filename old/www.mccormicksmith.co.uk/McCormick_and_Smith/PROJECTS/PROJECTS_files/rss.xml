@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>PROJECTS</title>
+    <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/PROJECTS/PROJECTS.html</link>
+    <description>PROJECTS</description>
+    <item>
+      <title>TINEL</title>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/PROJECTS/Pages/TINEL.html</link>
+      <guid isPermaLink="false">8a09b7de-3bb0-420a-8068-a37d5bccf3f5</guid>
+    </item>
+    <item>
+      <title>CHANTRY</title>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/PROJECTS/Pages/CHANTRY.html</link>
+      <guid isPermaLink="false">c2de31f0-922a-4fa0-8182-32065fd5680a</guid>
+    </item>
+    <item>
+      <title>WESLEY-BARRELL SHPWROOM, WITNEY</title>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/PROJECTS/Pages/WESLEY-BARRELL_SHPWROOM,_WITNEY.html</link>
+      <guid isPermaLink="false">978281b1-9341-47cb-973d-cfc71e5c8fd8</guid>
+    </item>
+    <item>
+      <title>KINGS SUTTON</title>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/PROJECTS/Pages/KINGS_SUTTON.html</link>
+      <guid isPermaLink="false">6e51c0bc-c7b5-4cf6-9a27-8863f4f8851b</guid>
+    </item>
+    <item>
+      <title>ST RUMBOLDS WINGS</title>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/PROJECTS/Pages/ST_RUMBOLDS_WINGS.html</link>
+      <guid isPermaLink="false">7c0c988c-8271-4d51-802e-74d204dcbfdb</guid>
+    </item>
+    <item>
+      <title>HONE HOUSE</title>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/PROJECTS/Pages/HONE_HOUSE.html</link>
+      <guid isPermaLink="false">71dd0b7f-1d9f-4cf9-ae28-fd4ce0b5612d</guid>
+    </item>
+    <item>
+      <title>BAILEYS</title>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/PROJECTS/Pages/BAILEYS.html</link>
+      <guid isPermaLink="false">3ea009c3-78f2-4b80-ad27-93283eee7cba</guid>
+    </item>
+    <item>
+      <title>NEW YATT</title>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/PROJECTS/Pages/NEW_YATT.html</link>
+      <guid isPermaLink="false">a512132b-a28b-4475-8837-d86dbf25f218</guid>
+    </item>
+    <item>
+      <title>ADDERBURY</title>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/PROJECTS/Pages/ADDERBURY.html</link>
+      <guid isPermaLink="false">e7d52eeb-2afc-46ae-9a47-ad7f1e1fd1a2</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>New Tower</title>
+    <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower.html</link>
+    <description>This was an existing L shaped house with poor internal circulation, no core and although it has a remarkable view, none of the rooms addressed it. 
+The clients required some radical internal re-planning to makee sense of the internal layout without completely re-building.
+This tower extension linked the kitchen and the sitting room to the garden on the ground floor, provided a bedroom on the first and a study on the second, all with panoramic views across the valley.
+
+</description>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower.html#0</link>
+      <guid isPermaLink="false">f3f5ab1e-e9e1-456c-8b1b-c5ad1dc75ffa</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower_files/Media/DSC00419_2/DSC00419_2.jpg" length="107784" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower_files/Media/DSC00419_2/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower_files/Media/DSC00419_2/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower.html#1</link>
+      <guid isPermaLink="false">7c3c9318-cc66-483d-9f3d-e7ba291c88b1</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower_files/Media/DSC00421/DSC00421.jpg" length="77609" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower_files/Media/DSC00421/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower_files/Media/DSC00421/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower.html#2</link>
+      <guid isPermaLink="false">ff74d215-bb65-42a3-8349-6942c75f6b5c</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower_files/Media/DSC00426_2/DSC00426_2.jpg" length="46413" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower_files/Media/DSC00426_2/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower_files/Media/DSC00426_2/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower.html#3</link>
+      <guid isPermaLink="false">4bc0a89b-3922-4441-89a3-1c05bc327aa6</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower_files/Media/DSC00431/DSC00431.jpg" length="87139" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower_files/Media/DSC00431/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower_files/Media/DSC00431/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower.html#4</link>
+      <guid isPermaLink="false">f3ba358a-c0e4-4a22-9db6-b9991b926a00</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower_files/Media/SKETCH/SKETCH.jpg" length="121939" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower_files/Media/SKETCH/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/New_Tower_files/Media/SKETCH/micro.jpg</iweb:micro>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>The Turner House</title>
+    <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner.html</link>
+    <description>A PPG 7 application for a house in the countryside, The Turner House was a mansion designed for a large country setting where it would stand on the edge of woodland. 
+The Planning requirements for a building in the county side are quite specific; in particular it needs to be ground-breaking in design.
+This scheme proposed to maximise solar gain by using a buffer solar space between three towers and rotating to ensure that the sun space faced the sun from sunrise to sunset. The turning mechanism sat in the base of the podium, so that the central space became a full-height glazed courtyard with orange trees. The three towers linked to form a building with echoes of the Broadway tower in its architectural form.
+</description>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner.html#0</link>
+      <guid isPermaLink="false">b99789de-abfa-4813-adfe-acdb050f54cd</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner_files/Media/DS%20PRINCIPLE/DS%20PRINCIPLE.jpg" length="35720" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner_files/Media/DS%20PRINCIPLE/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner_files/Media/DS%20PRINCIPLE/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner.html#1</link>
+      <guid isPermaLink="false">2b603e6f-0d96-44e9-b0af-cce4ee3e2f9b</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner_files/Media/DS%20DESIGN1/DS%20DESIGN1.jpg" length="58332" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner_files/Media/DS%20DESIGN1/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner_files/Media/DS%20DESIGN1/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner.html#2</link>
+      <guid isPermaLink="false">48905f74-af73-4077-9834-ca10b23d5aa7</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner_files/Media/FITZPLANSEC/FITZPLANSEC.jpg" length="64646" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner_files/Media/FITZPLANSEC/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner_files/Media/FITZPLANSEC/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner.html#3</link>
+      <guid isPermaLink="false">02ba26c1-4271-47c7-87a2-ea215b3422a1</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner_files/Media/FITZPLANGROUND/FITZPLANGROUND.jpg" length="112653" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner_files/Media/FITZPLANGROUND/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner_files/Media/FITZPLANGROUND/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner.html#4</link>
+      <guid isPermaLink="false">9a8381ab-e66b-4860-90c7-991c09d77991</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner_files/Media/DS%20DESIGN/DS%20DESIGN.jpg" length="51358" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner_files/Media/DS%20DESIGN/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner_files/Media/DS%20DESIGN/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner.html#5</link>
+      <guid isPermaLink="false">125fc75d-c5d0-46b9-afc0-24c4d558b5bd</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner_files/Media/FITZPLAN12PLANS/FITZPLAN12PLANS.jpg" length="72308" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner_files/Media/FITZPLAN12PLANS/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Turner_files/Media/FITZPLAN12PLANS/micro.jpg</iweb:micro>
+    </item>
+  </channel>
+</rss>
