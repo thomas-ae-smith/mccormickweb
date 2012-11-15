@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Enigma House</title>
+    <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House.html</link>
+    <description>An existing nine storey office block which was converted to residential in collaboration with Lloyd-Thomas Architects (01926 633 600). 
+McCormick and Smith were responsible for the design of the penthouse; a lightweight structure with a wide barrel- vaulted roof over-sailing the structure below providing shelter, a deep shadow line and an elegant curved ceiling in the rooms below.</description>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House.html#0</link>
+      <guid isPermaLink="false">e4be86dc-947a-4bb3-82d5-cf7dca534aa2</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House_files/Media/DSC01373/DSC01373.jpg" length="76589" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House_files/Media/DSC01373/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House_files/Media/DSC01373/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House.html#1</link>
+      <guid isPermaLink="false">35ef75b9-74a0-4998-b2e9-207c4c404aed</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House_files/Media/Picture%20001/Picture%20001.jpg" length="123569" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House_files/Media/Picture%20001/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House_files/Media/Picture%20001/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House.html#2</link>
+      <guid isPermaLink="false">2a189447-186e-4eae-bd26-36d2ca0d2c7d</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House_files/Media/DSC01392/DSC01392.jpg" length="66368" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House_files/Media/DSC01392/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House_files/Media/DSC01392/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House.html#3</link>
+      <guid isPermaLink="false">7be8be09-cd1b-47da-b2c4-00ba7dc46a12</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House_files/Media/DSC01392_1/DSC01392_1.jpg" length="65083" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House_files/Media/DSC01392_1/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House_files/Media/DSC01392_1/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House.html#4</link>
+      <guid isPermaLink="false">dd1297c4-402c-477e-a497-7a697f7c9457</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House_files/Media/BLETCHLEY/BLETCHLEY.jpg" length="96863" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House_files/Media/BLETCHLEY/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House_files/Media/BLETCHLEY/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House.html#5</link>
+      <guid isPermaLink="false">d5abcac5-e04b-457d-b463-5e87dc7d9124</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House_files/Media/PENTHOUSE/PENTHOUSE.jpg" length="36740" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House_files/Media/PENTHOUSE/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Enigma_House_files/Media/PENTHOUSE/micro.jpg</iweb:micro>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Whiteladies Road</title>
+    <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES.html</link>
+    <description>Conversion of an existing bookshop in Bristol to a furniture showroom.
+
+The brief was to maximise the floor space, provide a distinctive street profile and create character in a long thin building.
+
+An existing stair was removed and natural light introduced to the rear of the building which draws the eye through. This light well stair links the two floors, and with a minor manipulation of  the floor levels allowed for a discrete staff room and facilities to sit beneath it. 
+
+
+
+</description>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES.html#0</link>
+      <guid isPermaLink="false">69364752-0962-4fac-954f-db8e9fae7f13</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES_files/Media/DSC00486/DSC00486.jpg" length="77743" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES_files/Media/DSC00486/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES_files/Media/DSC00486/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES.html#1</link>
+      <guid isPermaLink="false">3db8dd05-b317-4a17-8f34-f005b70849dd</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES_files/Media/DSC00448/DSC00448.jpg" length="90699" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES_files/Media/DSC00448/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES_files/Media/DSC00448/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES.html#2</link>
+      <guid isPermaLink="false">03b88bfb-b016-4a74-88d4-034dbc45650f</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES_files/Media/DSC00449/DSC00449.jpg" length="68968" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES_files/Media/DSC00449/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES_files/Media/DSC00449/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES.html#3</link>
+      <guid isPermaLink="false">0a807dde-fb32-476a-a808-1db3e8f3518c</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES_files/Media/DSC00452/DSC00452.jpg" length="72736" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES_files/Media/DSC00452/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES_files/Media/DSC00452/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES.html#4</link>
+      <guid isPermaLink="false">230ad324-b136-42ee-9da1-6ab811870b05</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES_files/Media/DSC00453/DSC00453.jpg" length="51303" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES_files/Media/DSC00453/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES_files/Media/DSC00453/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES.html#5</link>
+      <guid isPermaLink="false">5a570b95-ef9f-4c59-acde-d7bd736a427d</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES_files/Media/DSC00473/DSC00473.jpg" length="78169" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES_files/Media/DSC00473/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/WHITELADIES_files/Media/DSC00473/micro.jpg</iweb:micro>
+    </item>
+  </channel>
+</rss>

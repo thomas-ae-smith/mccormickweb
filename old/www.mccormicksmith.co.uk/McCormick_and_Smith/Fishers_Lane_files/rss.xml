@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Fishers Lane</title>
+    <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane.html</link>
+    <description>A new house on a steeply sloping site in a Conservation Area.
+The central helical stair tower links the floor levels internally as they tier down the site and externally forms the pivot around which the three separate elements of the house revolve.  
+The building can be read as traditional from the roadside, and blends well with the local Cotswold style, but has a subtly modern approach which also addresses the design issues of a tight and sloping plot. The kitchen wing at the back is on the level of the lower garden and links through double doors to create an outside living area.</description>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane.html#0</link>
+      <guid isPermaLink="false">0bcc9e66-16c3-4223-b872-6ed5e04a947c</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane_files/Media/FISHMODLAYOUT19%7E/FISHMODLAYOUT19%7E.jpg" length="142234" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane_files/Media/FISHMODLAYOUT19%7E/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane_files/Media/FISHMODLAYOUT19%7E/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane.html#1</link>
+      <guid isPermaLink="false">adb962d0-da70-4b9c-8f6c-a5351bde640a</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane_files/Media/DSC02404/DSC02404.jpg" length="174961" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane_files/Media/DSC02404/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane_files/Media/DSC02404/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane.html#2</link>
+      <guid isPermaLink="false">8bbdd8de-db36-4d2e-a77f-5ece126ed7a1</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane_files/Media/FISHMODLAYOUT19A%7E/FISHMODLAYOUT19A%7E.jpg" length="127109" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane_files/Media/FISHMODLAYOUT19A%7E/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane_files/Media/FISHMODLAYOUT19A%7E/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane.html#3</link>
+      <guid isPermaLink="false">ac87dfa4-df41-40f2-81d5-c0b6f7424ba3</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane_files/Media/DSC02451/DSC02451.jpg" length="131897" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane_files/Media/DSC02451/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane_files/Media/DSC02451/micro.jpg</iweb:micro>
+    </item>
+    <item>
+      <link>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane.html#4</link>
+      <guid isPermaLink="false">510f2263-f875-4c9f-8a75-c3a80c87133e</guid>
+      <enclosure url="http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane_files/Media/FISHSEC/FISHSEC.jpg" length="50507" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane_files/Media/FISHSEC/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.mccormicksmith.co.uk/McCormick_and_Smith/Fishers_Lane_files/Media/FISHSEC/micro.jpg</iweb:micro>
+    </item>
+  </channel>
+</rss>
